@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "LoL Map Ticker",
+  "name": "A simple React App to improve your map awareness",
   "icons": [
     {
       "src": "favicon.ico",
